@@ -15,3 +15,7 @@ Main purpose is to provide simple examples for Git training demos.
 This is a simple web project, deployment can be onn any web server or even locally. 
 
 ## How To Contribute
+
+### Copywrite
+
+2014 Git.Training

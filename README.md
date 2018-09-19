@@ -18,6 +18,6 @@ This is a simple web project, deployment can be onn any web server or even local
 
 Please fork this repository and then issue pull request for review
 
-### Copywrite
+### Copyrite
 
 2014 Git.Training. All rights reserved.

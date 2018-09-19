@@ -20,4 +20,4 @@ Please fork this repository and then issue pull request for review
 
 ### Copywrite
 
-2014 Git.Training
+2014 Git.Training. All rights reserved.
